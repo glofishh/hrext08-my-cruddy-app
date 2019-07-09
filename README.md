@@ -12,8 +12,4 @@ Create Read Update and Delete framework using JS
 - [ x ] UI/UX considerations (how are we going to use this)
 
 ### Advanced Reqs
-<<<<<<< HEAD
 - [ ] delete single item (needs unique id and localStorage)
-=======
-- [ ] delete single item (needs unique id and localStorage)
->>>>>>> origin
