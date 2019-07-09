@@ -12,6 +12,4 @@ Create Read Update and Delete framework using JS
 - [ x ] UI/UX considerations (how are we going to use this)
 
 ### Advanced Reqs
-- [ ] State changing styling (hover/etc)
-- [ ] corgi gif
-- [ ] cowbell sound
+- [ ] delete single item (needs unique id and localStorage)
